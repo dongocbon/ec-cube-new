@@ -1873,3 +1873,6 @@ command.composer_require_already_installed.not_supported_plugin: "%name% %plugin
 #------------------------------------------------------------------------------------
 admin.list.sort.key: listSortKey
 admin.list.sort.type: listSortType
+
+#sale
+admin.setting.system.sale: sale
